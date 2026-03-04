@@ -1,0 +1,6 @@
+[submodule "submodules/poc-submodule-alpha"]
+	path = submodules/poc-submodule-alpha
+	url = https://github.com/amitkhemlani-lab/poc-submodule-alpha.git
+[submodule "submodules/poc-submodule-beta"]
+	path = submodules/poc-submodule-beta
+	url = https://github.com/amitkhemlani-lab/poc-submodule-beta.git
